@@ -1,8 +1,22 @@
 # zshrc
 A minimal zshrc implementation
 
-## Acknowledgements
+## Description
+This project provides a basic configuration for Zsh to enhance the terminal experience.
 
-- Thanks to all contributors who have helped improve this project
-- Inspired by similar open source projects
+## Features
+- Simple and clean configuration
+- Easy to customize
+- Inspired by open source contributions
+
+## Installation
+Clone the repository and add the configuration to your .zshrc file.
+
+## Acknowledgements
+- Thanks to all contributors who have helped improve this project.
+- Inspired by similar open source projects.
 - Built with love and coffee ☕
+
+## Future Plans
+- Add more features based on user feedback
+- Improve documentation
